@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
 
+
             #region Question1
             //int num = int.Parse(Console.ReadLine());
             //Console.WriteLine(num);
